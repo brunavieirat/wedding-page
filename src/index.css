@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Utility for the Great Vibes headings */
+.font-great-vibes { font-family: "Great Vibes", cursive; }
